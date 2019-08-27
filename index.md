@@ -1,6 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+title: About
 ---
+
+I am Uro Lyi, a student and University of Maryland, College Park, majoring in Math and Computer Science. This site is to highlight some of my personal projects and for occasional musings.
