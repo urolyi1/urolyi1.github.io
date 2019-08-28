@@ -17,4 +17,5 @@ Finally, here are some of the smaller things I want to keep up with this semeste
 * Waste less time (will probably naturally happen with a busier schedule, but something I definitely could work on)
 * Give at least one math club lecture
 * Go to more seminars
+
 This is pretty much a wish list and I would be beyond thrilled if I completed all of them, but being ambitious isn't necessarily a bad thing right? (or is it?)
