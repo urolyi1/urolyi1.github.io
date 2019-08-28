@@ -27,10 +27,14 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
+future: true
 collections:
   projects:
     output: true
+    sort_by: proj_num
+  posts:
+    output: true
+    sort_by: post_num
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
