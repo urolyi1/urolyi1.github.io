@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-<article class="project h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="project-header">
+  <header class="post-header">
     {% include mathjax.html %}
-    <h1 class="project-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="project-meta">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
@@ -16,7 +16,7 @@ layout: default
       {%- endif -%}</p>
   </header>
 
-  <div class="project-content e-content" itemprop="articleBody">
+  <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
 
