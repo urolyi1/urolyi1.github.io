@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About
 ---
 
-I am Uro Lyi, a student and University of Maryland, College Park, majoring in Math and Computer Science. This site is to highlight some of my personal projects and for occasional musings.
+Hello! My name is Uro Lyi and this site is to highlight some of my personal projects and for occasional blogs. For more info about me check out the about section or my [CV](./CV.pdf).
